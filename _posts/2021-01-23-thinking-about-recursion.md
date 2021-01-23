@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Thinking about recursion"
+date: 2021-01-23 20:00:00 +0800
+categories: code
+comments: true
+---
+
 Recursion is often taught as something that goes along these lines:
 
 - Base case (or termination case)
